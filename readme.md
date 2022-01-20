@@ -2,7 +2,8 @@
 
  1. Clone the repo
  2. Run the docker command to start the SFO flight data server
- 3. Launch Map GUI by opening the index.html file
+ 3. Launch Map GUI by opening the index.html file or use the share link
+ 4. **Share Link:** https://stephenlb.github.io/eon-maps-sfo-flight-data/ 
 
 ### 1. Clone the Repo
 ```shell
