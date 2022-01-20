@@ -1,5 +1,14 @@
 # PubNub EON Maps with SFO Flight Data
 
+ 1. Clone the repo
+ 2. Run the docker command
+ 3. Open the index.html file
+
+### Clone the Repo
+```shell
+git clone git@github.com:stephenlb/eon-maps-sfo-flight-data.git
+```
+
 ### Run SFO Flight Data Server
 
 ```shell
