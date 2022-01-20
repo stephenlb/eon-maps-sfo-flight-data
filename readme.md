@@ -4,6 +4,8 @@
  2. Run the docker command
  3. Open the index.html file
 
+![image](https://user-images.githubusercontent.com/45214/150246040-65d07020-b81c-47f3-bcce-80287872bd90.png)
+
 ### Clone the Repo
 ```shell
 git clone git@github.com:stephenlb/eon-maps-sfo-flight-data.git
